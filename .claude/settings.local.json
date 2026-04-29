@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.bolna.ai)",
+      "WebFetch(domain:docs.slack.dev)",
+      "WebFetch(domain:docs.bolna.ai)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:api.slack.com)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:api.github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)"
+    ]
+  }
+}
